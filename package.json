@@ -1,0 +1,5 @@
+{
+  "name": "bay-area-grad-jobs-preview",
+  "private": true,
+  "scripts": {"dev": ".venv/bin/python scripts/preview.py"}
+}
